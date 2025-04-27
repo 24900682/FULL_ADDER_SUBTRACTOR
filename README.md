@@ -1,3 +1,5 @@
+# NAME: ASWIN L
+# REG NO: 212224230028
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
